@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:EC4899&height=220&section=header&text=Rishabh%20Singh&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%26%20Distributed%20Systems%20%7C%20GenAI&descSize=18&descAlignY=60&descAlign=50" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:EC4899&height=220&section=header&text=Rishabh%20Singh&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%7C%20Distributed%20Systems%20%7C%20GenAI&descSize=18&descAlignY=60&descAlign=50" alt="header"/>
 
 <a href="https://github.com/rishabhsingh-gen">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=I+turn+coffee+into+code+%E2%98%95;Building+systems+that+don't+break+at+3+AM;Backend+%E2%80%A2+Distributed+Systems+%E2%80%A2+GenAI+Tooling;Close+to+the+core%2C+always+learning+under+the+hood" alt="typing" />
@@ -14,7 +14,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=rishabhsingh-gen&label=Profile%20views&color=8B5CF6&style=flat" alt="profile views" />
 &nbsp;
-<img src="https://img.shields.io/badge/Focus-Backend%20%26%20GenAI-6366F1?style=flat" alt="focus" />
+<img src="https://img.shields.io/badge/Focus-Backend%20%2B%20GenAI-6366F1?style=flat" alt="focus" />
 &nbsp;
 <img src="https://img.shields.io/badge/Location-India-EC4899?style=flat" alt="location" />
 
